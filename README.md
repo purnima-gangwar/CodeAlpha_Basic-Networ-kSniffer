@@ -44,5 +44,5 @@ Use this tool only on networks and devices you own or are authorized to analyze.
 - Practice packet capture and network traffic analysis
 - Understand basic cybersecurity monitoring
 
-## Author
-Purnima Gangwar.
+## Author: Purnima Gangwar.
+
