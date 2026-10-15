@@ -1,6 +1,4 @@
 # Basic Network Sniffer
-
-
 Basic Network Sniffer is a Python-based cybersecurity project that captures and analyzes IP network packets using Scapy.
 
 ## Features
